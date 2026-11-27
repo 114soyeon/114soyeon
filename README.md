@@ -1,15 +1,15 @@
 
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F3EF&height=180&section=header&text=SOYEON%20KIM&fontSize=42&fontColor=25312D&fontAlignY=43&desc=FRONTEND%20DEVELOPER&descSize=13&descAlignY=65&descColor=C96F85" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F3EF&height=190&section=header&text=SOYEON%20KIM&fontSize=44&fontColor=25312D&fontAlignY=42&desc=FRONTEND%20DEVELOPER&descSize=14&descAlignY=65&descColor=C96F85" width="100%" />
 
 <br/>
 
-<img src="./assets/profile.png" width="145" />
+<img src="./assets/profile.png" width="160" alt="Soyeon Profile" />
 
 <br/>
+
+# 김소연 | SOYEON KIM
 
 ### 사용자 경험을 코드로 구현하는 프론트엔드 개발자
 
@@ -18,11 +18,15 @@
 
 <br/>
 
-<a href="https://114soyeon.github.io/">PORTFOLIO ↗</a>
-&nbsp; · &nbsp;
-<a href="mailto:j.2lly.k@gmail.com">EMAIL ↗</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/114soyeon">GITHUB ↗</a>
+<a href="https://114soyeon.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-25312D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:j.2lly.k@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-C96F85?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/114soyeon">
+  <img src="https://img.shields.io/badge/GITHUB-25312D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -30,20 +34,22 @@
 
 ---
 
-## ✳ About Me
+## 👩🏻‍💻 About Me
 
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="35%" align="center">
 
 **HELLO, I'M SOYEON.**
+
+<br/>
 
 사용자의 입장에서 생각하고  
 더 나은 웹 경험을 만드는  
 개발자를 지향합니다.
 
 </td>
-<td width="65%" valign="top">
+<td width="65%">
 
 안녕하세요, 프론트엔드 개발자 김소연입니다.
 
@@ -57,27 +63,23 @@
 </tr>
 </table>
 
-<br/>
-
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-**FRONTEND**
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 <br/><br/>
 
-**TOOLS & DESIGN**
+### TOOLS & DESIGN
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -87,14 +89,9 @@
 
 사용자의 일상에 편리함을 더하는 웹 서비스를 만듭니다.
 
-</div>
-
 <br/>
 
-<!-- ===================================== -->
-<!-- 01. SWATCHURE : 추후 프로젝트 추가 예정 -->
-<!-- 이미지 / 프로젝트 설명 / 기술 스택 / 링크 -->
-<!-- ===================================== -->
+</div>
 
 <table>
 <tr>
@@ -104,6 +101,8 @@
 <th width="18%">LINK</th>
 </tr>
 
+<!-- 01. SWATCHURE : 추후 내용 추가 예정 -->
+
 <tr>
 <td align="center">
 
@@ -112,20 +111,23 @@
 </td>
 <td>
 
-<!-- SWATCHURE 프로젝트 소개를 추후 추가 -->
+<!-- SWATCHURE 프로젝트 소개 -->
+<!-- 추후 프로젝트 이미지 및 설명 추가 예정 -->
 
 </td>
 <td>
 
-<!-- 역할 및 기술 스택 추후 추가 -->
+<!-- ROLE / TECH STACK 추후 추가 -->
 
 </td>
 <td align="center">
 
-<!-- GitHub / Demo 링크 추후 추가 -->
+<!-- GITHUB / DEMO LINK 추후 추가 -->
 
 </td>
 </tr>
+
+<!-- 02. CARING -->
 
 <tr>
 <td align="center">
@@ -134,7 +136,7 @@
 
 <br/>
 
-<img src="./assets/caring.png" width="100%" />
+<img src="./assets/caring.png" width="100%" alt="Dolharpang Project" />
 
 </td>
 <td>
@@ -148,21 +150,19 @@
 </td>
 <td>
 
-Web Publishing
+**Web Publishing**
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 <td align="center">
 
-<a href="https://github.com/114soyeon">GITHUB ↗</a>
-
-<br/><br/>
-
 <a href="https://114soyeon.github.io/">PORTFOLIO ↗</a>
 
 </td>
 </tr>
+
+<!-- 03. FIXPICK -->
 
 <tr>
 <td align="center">
@@ -171,7 +171,7 @@ Web Publishing
 
 <br/>
 
-<img src="./assets/fixpick.png" width="100%" />
+<img src="./assets/fixpick.png" width="100%" alt="Fixpick Project" />
 
 </td>
 <td>
@@ -185,16 +185,12 @@ Web Publishing
 </td>
 <td>
 
-Frontend
+**Frontend**
 
 `React` `JavaScript`
 
 </td>
 <td align="center">
-
-<a href="https://fixpick-beta.vercel.app/">LIVE DEMO ↗</a>
-
-<br/><br/>
 
 <a href="https://github.com/114soyeon">GITHUB ↗</a>
 
@@ -202,8 +198,6 @@ Frontend
 </tr>
 
 </table>
-
-<br/>
 
 ---
 
@@ -217,13 +211,11 @@ Frontend
 
 <br/>
 
-| COMPANY | WORK |
+| COMPANY | EXPERIENCE |
 |:---|:---|
-| 중소기업중앙회 | 대고객 시스템 PC / Mobile 웹 퍼블리싱 |
-| SC제일은행 | 웹 접근성 개선 퍼블리싱 |
-| 현대제철 HCORE STORE | 전자상거래 플랫폼 웹 퍼블리싱 |
-
-<br/>
+| 중소기업중앙회 | 웹 퍼블리싱 프로젝트 |
+| SC제일은행 | 웹 퍼블리싱 프로젝트 |
+| 현대제철 HCORE STORE | 웹 퍼블리싱 프로젝트 |
 
 ---
 
@@ -231,13 +223,13 @@ Frontend
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=114soyeon&show_icons=true&hide_border=true&bg_color=F5F3EF&title_color=25312D&icon_color=C96F85&text_color=555555" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=114soyeon&layout=compact&hide_border=true&bg_color=F5F3EF&title_color=25312D&text_color=555555" height="160" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=114soyeon&show_icons=true&hide_border=true&bg_color=F5F3EF&title_color=25312D&icon_color=C96F85&text_color=555555" height="165" />
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=114soyeon&layout=compact&hide_border=true&bg_color=F5F3EF&title_color=25312D&text_color=555555" height="165" />
+
+</div>
 
 ---
 
@@ -250,7 +242,7 @@ Frontend
 <br/>
 
 <a href="mailto:j.2lly.k@gmail.com">
-  EMAIL ME ↗
+  <img src="https://img.shields.io/badge/CONTACT_ME-C96F85?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -261,7 +253,7 @@ Frontend
 
 <br/><br/>
 
-<sub>SOYEON KIM · FRONTEND DEVELOPER · 2026</sub>
+<sub>© 2026 SOYEON KIM · FRONTEND DEVELOPER</sub>
 
 <br/><br/>
 
