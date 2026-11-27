@@ -73,25 +73,25 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-<br/><br/>
+<br/>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=express,python" />
 
-<br/><br/>
+<br/>
 
 ### DBMS
 
 <img src="https://skillicons.dev/icons?i=postgres" />
 
-<br/><br/>
+<br/>
 
 ### DevOps
 
 <img src="https://skillicons.dev/icons?i=supabase,vercel,github" />
 
-<br/><br/>
+<br/>
 
 ### Design
 
