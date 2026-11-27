@@ -11,20 +11,20 @@
 
 # 김소연 | SOYEON KIM
 
-### 사용자 경험을 코드로 구현하는 프론트엔드 개발자
+### 퍼블리싱에서 시작해 구조까지 설계하는 프론트엔드 개발자
 
-복잡한 서비스를 쉽게 이해하고 사용할 수 있도록  
-구조와 인터랙션을 설계합니다.
+퍼블리싱 경험을 바탕으로 화면의 완성도를 높이고  
+사용자의 흐름까지 고려한 웹 서비스를 구현합니다.
 
 <br/>
 
-<a href="https://114soyeon.github.io/">
+<a href="https://114soyeon.github.io/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/PORTFOLIO-25312D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:j.2lly.k@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-C96F85?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/114soyeon">
+<a href="https://github.com/114soyeon" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GITHUB-25312D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -53,11 +53,11 @@
 
 안녕하세요, 프론트엔드 개발자 김소연입니다.
 
-웹 퍼블리싱 실무 경험을 바탕으로 사용자 인터페이스와 웹 개발 역량을 넓혀가고 있습니다.
+자사몰과 SI 프로젝트에서 다양한 웹 서비스를 퍼블리싱하며 실무 경험을 쌓았습니다.
 
-단순히 화면을 구현하는 것에 그치지 않고, 직관적인 UI와 자연스러운 사용자 경험을 만드는 데 관심이 있습니다.
+이러한 경험을 바탕으로 React 기반의 프론트엔드 개발 역량을 넓혀가고 있습니다.
 
-**I believe good development starts with understanding users.**
+화면의 완성도뿐 아니라 직관적인 UI와 자연스러운 사용자 흐름까지 고려한 웹 서비스를 만드는 데 관심이 있습니다.
 
 </td>
 </tr>
@@ -69,175 +69,191 @@
 
 <div align="center">
 
-### FRONTEND
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 <br/><br/>
 
-### TOOLS & DESIGN
+### Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=express,python" />
+
+<br/><br/>
+
+### DBMS
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+<br/><br/>
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=supabase,vercel,github" />
+
+<br/><br/>
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </div>
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-
-사용자의 일상에 편리함을 더하는 웹 서비스를 만듭니다.
-
-<br/>
-
-</div>
+## 📁 Projects
 
 <table>
-<tr>
-<th width="18%">PROJECT</th>
-<th width="42%">OVERVIEW</th>
-<th width="22%">ROLE / STACK</th>
-<th width="18%">LINK</th>
-</tr>
-
-<!-- 01. SWATCHURE : 추후 내용 추가 예정 -->
-
-<tr>
-<td align="center">
-
-**01. SWATCHURE**
-
-</td>
-<td>
-
-<!-- SWATCHURE 프로젝트 소개 -->
-<!-- 추후 프로젝트 이미지 및 설명 추가 예정 -->
-
-</td>
-<td>
-
-<!-- ROLE / TECH STACK 추후 추가 -->
-
-</td>
-<td align="center">
-
-<!-- GITHUB / DEMO LINK 추후 추가 -->
-
-</td>
-</tr>
-
-<!-- 02. CARING -->
-
-<tr>
-<td align="center">
-
-**02. CARING**
-
-<br/>
-
-<img src="./assets/caring.png" width="100%" alt="Dolharpang Project" />
-
-</td>
-<td>
-
-**Dolharpang Rental Car Website Renewal**
-
-제주 렌터카 서비스 돌하르팡 웹사이트 리뉴얼 프로젝트.
-
-기존 서비스의 UI를 개선하고 사용자가 필요한 정보를 쉽게 찾을 수 있도록 화면을 구성했습니다.
-
-</td>
-<td>
-
-**Web Publishing**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td align="center">
-
-<a href="https://114soyeon.github.io/">PORTFOLIO ↗</a>
-
-</td>
-</tr>
-
-<!-- 03. FIXPICK -->
-
-<tr>
-<td align="center">
-
-**03. FIXPICK**
-
-<br/>
-
-<img src="./assets/fixpick.png" width="100%" alt="Fixpick Project" />
-
-</td>
-<td>
-
-**Fixed Expense Management Service**
-
-월세, 통신비, 구독료 등 반복되는 고정지출을 한곳에서 관리하는 서비스.
-
-고정지출 현황과 결제 일정을 직관적으로 확인할 수 있도록 대시보드를 구성했습니다.
-
-</td>
-<td>
-
-**Frontend**
-
-`React` `JavaScript`
-
-</td>
-<td align="center">
-
-<a href="https://github.com/114soyeon">GITHUB ↗</a>
-
-</td>
-</tr>
-
+  <thead>
+    <tr>
+      <th align="center">프로젝트</th>
+      <th align="center">개요</th>
+      <th align="center">역할</th>
+      <th align="center">기술 스택</th>
+      <th align="center">링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>SWATCHURE</b></td>
+      <td>퍼스널 컬러 기반 뷰티 제품 비교·추천 서비스</td>
+      <td>Frontend</td>
+      <td>React, JavaScript</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><b>Caring</b></td>
+      <td>돌하루팡 렌터카 웹사이트 리뉴얼</td>
+      <td>UI/UX Design, Publishing</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>
+        <a href="https://github.com/114soyeon/caring" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Fixpick</b></td>
+      <td>고정지출 관리 및 결제일 알림 서비스</td>
+      <td>Frontend</td>
+      <td>React, React Query, Zustand, Supabase</td>
+      <td>
+        <a href="https://github.com/114soyeon/Fixpick" target="_blank" rel="noopener noreferrer">GitHub</a>
+        /
+        <a href="https://fixpick-beta.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 ## 💼 Experience
 
-<div align="center">
+### 01. 자사몰
 
-실무 프로젝트를 통해 쌓아온 웹 퍼블리싱 경험
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="25%">프로젝트</th>
+      <th align="center">주요 작업</th>
+      <th align="center" width="15%">기간</th>
+      <th align="center" width="15%">기여도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>팬그램온</b></td>
+      <td>메인, 커리큘럼, 프로그램, 문의하기, Campus List</td>
+      <td align="center">4주</td>
+      <td align="center">100%</td>
+    </tr>
+    <tr>
+      <td><b>EasyUtter</b></td>
+      <td>인트로 및 메인페이지</td>
+      <td align="center">4주</td>
+      <td align="center">90% (부사수 참여)</td>
+    </tr>
+    <tr>
+      <td><b>원바이트월드 (홍보페이지)</b></td>
+      <td>홍보페이지, 인트로, 메인페이지 및 주요 콘텐츠</td>
+      <td align="center">4주</td>
+      <td align="center">100%</td>
+    </tr>
+    <tr>
+      <td><b>원바이트월드 (메인페이지)</b></td>
+      <td>인트로 및 메인페이지</td>
+      <td align="center">4주</td>
+      <td align="center">90% (부사수 참여)</td>
+    </tr>
+    <tr>
+      <td><b>EVERYDAY ONEBITE</b></td>
+      <td>메인페이지 스킨 4종</td>
+      <td align="center">4주</td>
+      <td align="center">100%</td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
+### 02. SI
 
-<br/>
-
-| COMPANY | EXPERIENCE |
-|:---|:---|
-| 중소기업중앙회 | 웹 퍼블리싱 프로젝트 |
-| SC제일은행 | 웹 퍼블리싱 프로젝트 |
-| 현대제철 HCORE STORE | 웹 퍼블리싱 프로젝트 |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="25%">프로젝트</th>
+      <th align="center">주요 작업</th>
+      <th align="center" width="15%">기간</th>
+      <th align="center" width="15%">기여도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>중소기업중앙회</b></td>
+      <td>대고객 시스템 전체 화면 퍼블리싱 (PC/MO)</td>
+      <td align="center">3개월</td>
+      <td align="center">100%</td>
+    </tr>
+    <tr>
+      <td><b>SC제일은행</b></td>
+      <td>웹 접근성 개선 퍼블리싱</td>
+      <td align="center">5개월</td>
+      <td align="center">100%</td>
+    </tr>
+    <tr>
+      <td><b>현대제철 HCORE STORE</b></td>
+      <td>전자상거래 플랫폼 전체 화면 퍼블리싱 (PC/MO)</td>
+      <td align="center">7개월</td>
+      <td align="center">100%</td>
+    </tr>
+    <tr>
+      <td><b>공제기금 홈페이지</b></td>
+      <td>메인페이지 및 CSS 개선 (PC/MO)</td>
+      <td align="center">4주</td>
+      <td align="center">100%</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 🌱 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=114soyeon&show_icons=true&hide_border=true&bg_color=F5F3EF&title_color=25312D&icon_color=C96F85&text_color=555555" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=114soyeon&layout=compact&hide_border=true&bg_color=F5F3EF&title_color=25312D&text_color=555555" height="165" />
-
+  <img
+    src="https://ghchart.rshah.org/25312D/114soyeon"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
 </div>
 
 ---
 
+<br/><br/>
+
 <div align="center">
 
-## Let's Build Something Better.
+### Building Better Experiences.
 
-더 나은 사용자 경험을 만드는 개발자가 되겠습니다.
+사용자의 입장에서 고민하고,<br/>
+더 나은 경험을 코드로 구현하겠습니다.
 
 <br/>
 
@@ -247,14 +263,12 @@
 
 <br/><br/>
 
-<a href="https://114soyeon.github.io/">PORTFOLIO</a>
+<a href="https://114soyeon.github.io/" target="_blank" rel="noopener noreferrer">PORTFOLIO</a>
 &nbsp; · &nbsp;
-<a href="https://github.com/114soyeon">GITHUB</a>
+<a href="https://github.com/114soyeon" target="_blank" rel="noopener noreferrer">GITHUB</a>
 
 <br/><br/>
 
 <sub>© 2026 SOYEON KIM · FRONTEND DEVELOPER</sub>
-
-<br/><br/>
 
 </div>
