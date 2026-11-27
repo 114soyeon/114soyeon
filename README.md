@@ -147,13 +147,13 @@
 
 ## 💼 Experience
 
-### 01. 자사몰
+### 01. 자사몰 | (주)러닝앤코
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="25%">프로젝트</th>
-      <th align="center">주요 작업</th>
+      <th align="center" width="22%">프로젝트</th>
+      <th align="center" width="48%">주요 작업</th>
       <th align="center" width="15%">기간</th>
       <th align="center" width="15%">기여도</th>
     </tr>
@@ -192,13 +192,15 @@
   </tbody>
 </table>
 
-### 02. SI
+<br/>
+
+### 02. SI | (주)시아나
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="25%">프로젝트</th>
-      <th align="center">주요 작업</th>
+      <th align="center" width="22%">프로젝트</th>
+      <th align="center" width="48%">주요 작업</th>
       <th align="center" width="15%">기간</th>
       <th align="center" width="15%">기여도</th>
     </tr>
