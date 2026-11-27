@@ -149,42 +149,43 @@
 
 ### 01. 자사몰
 
-<table width="100%">
+
+<table>
   <thead>
     <tr>
-      <th align="center" width="22%">프로젝트</th>
-      <th align="center" width="48%">주요 작업</th>
-      <th align="center" width="15%">기간</th>
-      <th align="center" width="15%">기여도</th>
+      <th align="center">프로젝트</th>
+      <th align="center">주요 작업</th>
+      <th align="center">기간</th>
+      <th align="center">기여도</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>팬그램온</b></td>
+      <td align="center"><b>팬그램온</b></td>
       <td>메인, 커리큘럼, 프로그램, 문의하기, Campus List</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td><b>EasyUtter</b></td>
+      <td align="center"><b>EasyUtter</b></td>
       <td>인트로 및 메인페이지</td>
       <td align="center">4주</td>
       <td align="center">90% (부사수 참여)</td>
     </tr>
     <tr>
-      <td><b>원바이트월드 (홍보페이지)</b></td>
+      <td align="center"><b>원바이트월드 (홍보페이지)</b></td>
       <td>홍보페이지, 인트로, 메인페이지 및 주요 콘텐츠</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td><b>원바이트월드 (메인페이지)</b></td>
+      <td align="center"><b>원바이트월드 (메인페이지)</b></td>
       <td>인트로 및 메인페이지</td>
       <td align="center">4주</td>
       <td align="center">90% (부사수 참여)</td>
     </tr>
     <tr>
-      <td><b>EVERYDAY ONEBITE</b></td>
+      <td align="center"><b>EVERYDAY ONEBITE</b></td>
       <td>메인페이지 스킨 4종</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
@@ -196,36 +197,37 @@
 
 ### 02. SI
 
-<table width="100%">
+
+<table>
   <thead>
     <tr>
-      <th align="center" width="22%">프로젝트</th>
-      <th align="center" width="48%">주요 작업</th>
-      <th align="center" width="15%">기간</th>
-      <th align="center" width="15%">기여도</th>
+      <th align="center">프로젝트</th>
+      <th align="center">주요 작업</th>
+      <th align="center">기간</th>
+      <th align="center">기여도</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>중소기업중앙회</b></td>
+      <td align="center"><b>중소기업중앙회</b></td>
       <td>대고객 시스템 전체 화면 퍼블리싱 (PC/MO)</td>
       <td align="center">3개월</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td><b>SC제일은행</b></td>
+      <td align="center"><b>SC제일은행</b></td>
       <td>웹 접근성 개선 퍼블리싱</td>
       <td align="center">5개월</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td><b>현대제철 HCORE STORE</b></td>
+      <td align="center"><b>현대제철 HCORE STORE</b></td>
       <td>전자상거래 플랫폼 전체 화면 퍼블리싱 (PC/MO)</td>
       <td align="center">7개월</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td><b>공제기금 홈페이지</b></td>
+      <td align="center"><b>공제기금 홈페이지</b></td>
       <td>메인페이지 및 CSS 개선 (PC/MO)</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
