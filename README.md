@@ -137,7 +137,6 @@
       <td>React, React Query, Zustand, Supabase</td>
       <td>
         <a href="https://github.com/114soyeon/Fixpick" target="_blank" rel="noopener noreferrer">GitHub</a>
-        /
         <a href="https://fixpick-beta.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a>
       </td>
     </tr>
