@@ -19,14 +19,9 @@
 <br/>
 
 <a href="https://114soyeon.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/PORTFOLIO-25312D?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-C96F85?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"/>
 </a>
-<a href="mailto:j.2lly.k@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-C96F85?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/114soyeon" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GITHUB-25312D?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <br/><br/>
 
@@ -75,18 +70,6 @@
 
 <br/>
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=express,python" />
-
-<br/>
-
-### DBMS
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<br/>
-
 ### DevOps
 
 <img src="https://skillicons.dev/icons?i=supabase,vercel,github" />
@@ -96,6 +79,8 @@
 ### Design
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+<br/>
 
 </div>
 
@@ -116,8 +101,8 @@
   <tbody>
     <tr>
       <td><b>SWATCHURE</b></td>
-      <td>퍼스널 컬러 기반 뷰티 제품 비교·추천 서비스</td>
-      <td>Frontend</td>
+      <td>브랜드 간 색조 제품을 직접 비교·공유하고, 개인 취향 기반 제품 추천을 제공하는 뷰티 플랫폼</td>
+      <td>UI/UX Design, Publishing, Frontend</td>
       <td>React, JavaScript</td>
       <td>-</td>
     </tr>
@@ -149,43 +134,42 @@
 
 ### 01. 자사몰
 
-
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th align="center">프로젝트</th>
-      <th align="center">주요 작업</th>
-      <th align="center">기간</th>
-      <th align="center">기여도</th>
+      <th align="center" width="22%">프로젝트</th>
+      <th align="center" width="48%">주요 작업</th>
+      <th align="center" width="15%">기간</th>
+      <th align="center" width="15%">기여도</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>팬그램온</b></td>
+      <td><b>팬그램온</b></td>
       <td>메인, 커리큘럼, 프로그램, 문의하기, Campus List</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td align="center"><b>EasyUtter</b></td>
+      <td><b>EasyUtter</b></td>
       <td>인트로 및 메인페이지</td>
       <td align="center">4주</td>
       <td align="center">90% (부사수 참여)</td>
     </tr>
     <tr>
-      <td align="center"><b>원바이트월드 (홍보페이지)</b></td>
+      <td><b>원바이트월드 (홍보페이지)</b></td>
       <td>홍보페이지, 인트로, 메인페이지 및 주요 콘텐츠</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td align="center"><b>원바이트월드 (메인페이지)</b></td>
+      <td><b>원바이트월드 (메인페이지)</b></td>
       <td>인트로 및 메인페이지</td>
       <td align="center">4주</td>
       <td align="center">90% (부사수 참여)</td>
     </tr>
     <tr>
-      <td align="center"><b>EVERYDAY ONEBITE</b></td>
+      <td><b>EVERYDAY ONEBITE</b></td>
       <td>메인페이지 스킨 4종</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
@@ -197,37 +181,36 @@
 
 ### 02. SI
 
-
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th align="center">프로젝트</th>
-      <th align="center">주요 작업</th>
-      <th align="center">기간</th>
-      <th align="center">기여도</th>
+      <th align="center" width="22%">프로젝트</th>
+      <th align="center" width="48%">주요 작업</th>
+      <th align="center" width="15%">기간</th>
+      <th align="center" width="15%">기여도</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b>중소기업중앙회</b></td>
+      <td><b>중소기업중앙회</b></td>
       <td>대고객 시스템 전체 화면 퍼블리싱 (PC/MO)</td>
       <td align="center">3개월</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td align="center"><b>SC제일은행</b></td>
+      <td><b>SC제일은행</b></td>
       <td>웹 접근성 개선 퍼블리싱</td>
       <td align="center">5개월</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td align="center"><b>현대제철 HCORE STORE</b></td>
+      <td><b>현대제철 HCORE STORE</b></td>
       <td>전자상거래 플랫폼 전체 화면 퍼블리싱 (PC/MO)</td>
       <td align="center">7개월</td>
       <td align="center">100%</td>
     </tr>
     <tr>
-      <td align="center"><b>공제기금 홈페이지</b></td>
+      <td><b>공제기금 홈페이지</b></td>
       <td>메인페이지 및 CSS 개선 (PC/MO)</td>
       <td align="center">4주</td>
       <td align="center">100%</td>
@@ -237,41 +220,8 @@
 
 ---
 
-## 🌱 GitHub Activity
-
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/25312D/114soyeon"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</div>
-
----
-
 <br/><br/>
 
 <div align="center">
-
-### Building Better Experiences.
-
-사용자의 입장에서 고민하고,<br/>
-더 나은 경험을 코드로 구현하겠습니다.
-
-<br/>
-
-<a href="mailto:j.2lly.k@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT_ME-C96F85?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://114soyeon.github.io/" target="_blank" rel="noopener noreferrer">PORTFOLIO</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/114soyeon" target="_blank" rel="noopener noreferrer">GITHUB</a>
-
-<br/><br/>
-
 <sub>© 2026 SOYEON KIM · FRONTEND DEVELOPER</sub>
-
 </div>
